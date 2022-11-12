@@ -1,1 +1,1 @@
-# algorithms_and_data_structures
+My algorithms and data structures course
